@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saksham Srivastava 
-- 👀 I’m interested in MERN Stack development
+- 👀 Machine Learning Enthusiast
 - 🌱 I’m currently learning at AIETM, Jaipur 
 - 📫 How to reach me :- sakshambits006@gmail.com
 
